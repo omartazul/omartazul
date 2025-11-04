@@ -16,6 +16,7 @@ I'm a passionate developer interested in embedded systems, IoT, and AI-assisted 
 
 ## 📫 How to Reach Me
 - GitHub: [@omartazul](https://github.com/omartazul)
+- Email: omartazul@gmail.com
 
 ## 📊 GitHub Stats
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omartazul&show_icons=true&theme=radical)
